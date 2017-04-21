@@ -1,0 +1,6 @@
+framework module MCUtility {
+  umbrella header "MCUtility-umbrella.h"
+
+  export *
+  module * { export * }
+}
