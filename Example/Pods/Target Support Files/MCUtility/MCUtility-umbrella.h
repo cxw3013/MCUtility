@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "MCRSAHelper.h"
+#import "MCRSAManger.h"
 
 FOUNDATION_EXPORT double MCUtilityVersionNumber;
 FOUNDATION_EXPORT const unsigned char MCUtilityVersionString[];
